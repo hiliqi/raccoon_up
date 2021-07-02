@@ -1,0 +1,12 @@
+{
+    "update":[
+        "app/api/controller/Common.php",
+        "app/index/controller/Books.php",
+        "ver.txt"
+    ],
+    "delete":[
+    ],
+    "sql":[
+        
+    ]
+}
