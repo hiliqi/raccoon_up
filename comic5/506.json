@@ -1,6 +1,7 @@
 {
     "update":[
-        "app/admin/controller/Admins.php"
+        "app/index/controller/Books.php",
+        "ver.txt"
     ],
     "delete":[
     ],
