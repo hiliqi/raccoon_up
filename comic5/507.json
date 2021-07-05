@@ -1,0 +1,12 @@
+{
+    "update":[
+        "app/admin/controller/Index.php",
+        "app/admin/view/index/index.html",
+        "ver.txt"
+    ],
+    "delete":[
+    ],
+    "sql":[
+        
+    ]
+}
