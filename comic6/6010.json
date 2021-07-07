@@ -1,0 +1,14 @@
+{
+    "update":[
+        "public/template/default/m/chapters/index.html",
+        "public/template/default/m/chapters/index1.html",
+        "public/template/default/pc/chapters/index.html",
+        "public/template/default/pc/chapters/index1.html",
+        "ver.txt"
+    ],
+    "delete":[
+    ],
+    "sql":[
+        
+    ]
+}
