@@ -1,7 +1,6 @@
 {
     "update":[
-        "app/admin/controller/Users.php",
-        "app/admin/view/users/edit.html",
+        "vendor/topthink/framework/src/think/cache/driver/File.php",
         "ver.txt"
     ],
     "delete":[

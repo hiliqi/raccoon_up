@@ -1,0 +1,26 @@
+{
+    "update":[
+        "app/api/controller/Common.php",
+        "app/app/controller/Base.php",
+        "app/app/controller/Books.php",
+        "app/app/controller/Finance.php",
+        "app/app/controller/Users.php",
+        "app/index/controller/Account.php",
+        "app/index/controller/Base.php",
+        "app/index/controller/Books.php",
+        "app/index/controller/Finance.php",
+        "app/index/controller/Index.php",
+        "app/index/controller/Users.php",
+        "ver.txt"
+    ],
+    "delete":[
+        "app/mip/controller/Base.php",
+        "app/mip/controller/Books.php",
+        "app/mip/controller/Index.php",
+        "app/mip/controller/Update.php",
+        "app/mip/route/app.php",
+    ],
+    "sql":[
+        
+    ]
+}
